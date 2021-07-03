@@ -1,4 +1,5 @@
-# -首先，你需要准备一台windows或Linux或Mac设备
+#河南省中考成绩查询
+ -首先，你需要准备一台windows或Linux或Mac设备
 第二步，安装python3.8，打开命令指示符，键入pip install selenium 安装selenium拓展
 第三步，安装edge浏览器（具体只要是chrome之类的都行，主要是程序中用的edge驱动，用其他的会报错）
 第四步，下载对应版本的edge驱动并添加到path中（path在哪，上网百度）
